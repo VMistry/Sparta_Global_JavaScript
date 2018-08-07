@@ -51,7 +51,7 @@ console.log(isFinite(myNumber));
 console.log('-----ARRAYS-----');
 
 var myArray = [5,6,7,"a","b"];
-
+//uses
 // properties
 // how many items in the array
 console.log(myArray.length);
